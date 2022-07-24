@@ -13,7 +13,7 @@
       </script>
 </head>
 <body>
-  <h1>Welcome to Question1</h1>
+  <h1>Welcome To Question1</h1>
    <div>
   <div id="d1">
     <p class="faqQuestion" id="question1"  onclick="showAnswer('1')" onkeypress="showAnswer('1')" role="button" tabindex="0" area-expanded="false" aria-controls="answer2">What is the service request?</p>
